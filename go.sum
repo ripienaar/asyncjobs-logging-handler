@@ -50,6 +50,8 @@ github.com/cespare/xxhash/v2 v2.1.2 h1:YRXhKfTDauu4ajMg1TPgFO5jnlC2HCbmLXMcTG5cb
 github.com/cespare/xxhash/v2 v2.1.2/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
 github.com/choria-io/asyncjobs v0.0.2 h1:RljMie86DtNtlMh3HSTarP2IhBn8WLZJaWTjnmSePTw=
 github.com/choria-io/asyncjobs v0.0.2/go.mod h1:3ovY2W2DNIbfnPx2Wqj4c3SYPcIHurc4+pIYpgiiDLw=
+github.com/choria-io/asyncjobs v0.0.3 h1:zhTAfdrieoowtYhkU3dBdiKDp7pxKutAzyoM3wUkLE0=
+github.com/choria-io/asyncjobs v0.0.3/go.mod h1:MdYO6giz9MP/9pkbyx3YQUtRYK+d/tbxVb95ya834zo=
 github.com/chzyer/logex v1.1.10/go.mod h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWRnGsAI=
 github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e/go.mod h1:nSuG5e5PlCu98SY8svDHJxuZscDgtXS6KTTbou5AhLI=
 github.com/chzyer/test v0.0.0-20180213035817-a1ea475d72b1/go.mod h1:Q3SI9o4m/ZMnBNeIyt5eFwwo7qiLfzFZmjNmxjkiQlU=
